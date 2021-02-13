@@ -1,17 +1,17 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Example vanilla resource pack",
-        "name": "Vanilla Resource Pack",
-        "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
+        "description": "resource pack",
+        "name": "original Resource Pack",
+        "uuid": "87b8bbd6-e842-40b4-a40a-508c442b5e25",
         "version": [0, 0, 1],
         "min_engine_version": [ 1, 16, 200 ]
     },
     "modules": [
         {
-            "description": "Example vanilla resource pack",
+            "description": "resource pack",
             "type": "resources",
-            "uuid": "743f6949-53be-44b6-b326-398005028819",
+            "uuid": "94de6b00-9f98-49d6-95cf-8ab9a2462eb5",
             "version": [0, 0, 1]
         }
     ]
